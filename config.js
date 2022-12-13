@@ -23,22 +23,22 @@ global.sgc = "https://chat.whatsapp.com/BkXdpzy1mRD4W0ITpoM99t"
 global.location = "Jabar" //ur location
 
 //bot bomdy 
-global.owner = ['6285624823115'] //ur number
-global.ownernomer = "6285624823115" //ur number
-global.ownertag = '6285624823115' //ur tag number
-global.premium = ['6281646829895'] //ur premium number
-global.botname = 'Alfarabotz-MD' //ur bot name
-global.ownername = "Irfaan Official"
+global.owner = ['6285643702814'] //ur number
+global.ownernomer = "6285643702814" //ur number
+global.ownertag = '6285643702814' //ur tag number
+global.premium = ['6282297358232'] //ur premium number
+global.botname = 'MCbotz-MD' //ur bot name
+global.ownername = "MC15"
 global.linkz = "https://youtube.com/channel/@himhiachannel" //your theme url which will be displayed on whatsapp
-global.dana = "6289531704997"
-global.pulsa = "6281646829895"
+global.dana = "6285643702814"
+global.pulsa = "6285643702814"
 global.websitex = "https://youtube.com/channel/@himhiachannel" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/OjbANlCUIIM?feature=share"
 global.botscript = 'https://youtube.com/channel/@himhiachannel' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Alfarabot-MD" //ur sticker watermark author
-global.wm = "Irfaan Official" //ur watermark
+global.author = "Mcbotz-MD" //ur sticker watermark author
+global.wm = "MC15" //ur watermark
 
 // Other
 global.sessionName = 'Session'
